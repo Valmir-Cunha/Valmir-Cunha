@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  ### Hi there 👋
 
 - 🔭 Hoje estudo desenvolvimento no back-end
-- 🌱 Estudando node.js / Banco de dados realacionais
+- 🌱 Estudando .NET / Banco de dados PostgreSQL
 - 📫 Instagram :https://www.instagram.com/vinicius__cunha/
 
 <div align="center">
