@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
  ### Olá 👋
 
 - 🔭 Hoje estudo desenvolvimento no ambiente .NET
