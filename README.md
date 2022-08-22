@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  -->
- ### Hi there 👋
+ ### Olá 👋
 
 - 🔭 Hoje estudo desenvolvimento no ambiente .NET
 - 🌱 Estudando:
-    1. Liguagem C#;
-    2. Desenvolvimento de interfaces com WPF
-    3. Banco de dados PostgreSQL
+    * Liguagem C#;
+    * Desenvolvimento de interfaces com WPF
+    * Banco de dados PostgreSQL
 - 📫 Instagram :https://www.instagram.com/vinicius__cunha/
 
 <div align="center">
