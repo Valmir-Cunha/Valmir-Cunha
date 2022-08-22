@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 Hoje estudo desenvolvimento no ambiente .NET
 - 🌱 Estudando:
-    * Liguagem C#;
+    * Liguagem C#
     * Desenvolvimento de interfaces com WPF
     * Banco de dados PostgreSQL
 - 📫 Instagram :https://www.instagram.com/vinicius__cunha/
