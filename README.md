@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
  ### Olá 👋
 
-- 🔭 Hoje estudo desenvolvimento no ambiente .NET
+- 🔭 Hoje atuo no desenvolvimento de aplicações desktop com ambiente .NET
 - 🌱 Estudando:
-    * Liguagem C#
-    * Desenvolvimento de interfaces com WPF
-    * Banco de dados PostgreSQL
-- 📫 Instagram :https://www.instagram.com/vinicius__cunha/
+    * Ambiente .NET em geral;
+    * Angular;
+    * Banco de dados PostgreSQL;
+    * Docker
+- 📫 Email: vinicius.git36@gmail.com
 
 <div align="center">
   <a href="https://github.com/Valmir-Cunha">
