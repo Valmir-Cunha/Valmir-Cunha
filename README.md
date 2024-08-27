@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ### Olá 👋
-
-- 🔭 Hoje atuo no desenvolvimento de aplicações desktop com ambiente .NET
-- 🌱 Estudando:
-    * Ambiente .NET em geral;
-    * Angular;
-    * Banco de dados PostgreSQL;
-    * Docker
+ 
+- 🔭 Atualmente, trabalho no desenvolvimento de aplicações desktop utilizando o ambiente .NET.
+- 🌱 Estou me aprofundando em:
+    * Desenvolvimento em .NET;
+    * PostgreSQL;
+    * Docker.
 - 📫 Email: vinicius.git36@gmail.com
 
 <div align="center">
