@@ -21,7 +21,6 @@ Here are some ideas to get you started:
     * Desenvolvimento em .NET;
     * PostgreSQL;
     * Docker.
-- 📫 Email: vinicius.git36@gmail.com
 
 <div align="center">
   <a href="https://github.com/Valmir-Cunha">
