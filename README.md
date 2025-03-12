@@ -40,6 +40,6 @@ Sou apaixonado por tecnologia e tenho como propósito criar soluções eficiente
 ## 📫 Contatos
 
 - 📧 **Email:** vinicius.git36@gmail.com.
-- 💼 **LinkedIn:** [Valmir Rezende](www.linkedin.com/in/valmir-rezende-3a33a7235)  
+- 💼 **LinkedIn:** [linkedin.com/in/valmir-rezende-3a33a7235](www.linkedin.com/in/valmir-rezende-3a33a7235)  
 - 🌐 **Portfólio:** Em desenvolvimento
 
