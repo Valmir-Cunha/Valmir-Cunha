@@ -1,29 +1,45 @@
-<!-- ### Hi there 👋
+# 👋 Olá!
 
-<!--
-**Valmir-Cunha/Valmir-Cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Atualmente, trabalho com desenvolvimento de aplicações no ambiente **.NET**.
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e tenho como propósito criar soluções eficientes, com código limpo e de fácil manutenção. Sempre buscando evolução, compartilho experiências e acredito no poder da colaboração para crescer como profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- ### Olá 👋
- 
-- 🔭 Atualmente, trabalho no desenvolvimento de aplicações desktop utilizando o ambiente .NET.
-- 🌱 Estou me aprofundando em:
-    * Desenvolvimento em .NET;
-    * PostgreSQL;
-    * Docker.
+## 🚀 Tecnologias e Ferramentas
+- **.NET Framework / .NET Core**
+- **WPF**  
+- **Entity Framework**
+- **ASP.NET (MVC / Web API)**
+- **HTML | CSS | Bootstrap | JavaScript | React**
+- **PostgreSQL**
+- **Docker**
 
-<div align="center">
-  <a href="https://github.com/Valmir-Cunha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valmir-Cunha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 🛠️ Práticas e Conceitos
+- **Clean Code**  
+- **SOLID**  
+- **KISS (Keep It Simple, Stupid)**  
+- **DRY (Don’t Repeat Yourself)**  
+- **Dependency Injection**  
+- **Domain-Driven Design (DDD)**  
+- **Design Patterns**  
+- **Clean Architecture**
+
+## ✅ Qualidade de Código e Testes
+- **Testes Unitários**  
+- **Testes de Integração**  
+- **Testes Funcionais**  
+- **Testes End-to-End (E2E)**  
+- **Automação de Testes**
+
+## 📋 Metodologias de Trabalho
+- **Scrum**  
+- **Kanban**  
+- **Metodologias Ágeis**  
+- **Acompanhamento de Times**  
+
+
+## 📫 Contatos
+
+- 📧 **Email:** vinicius.git36@gmail.com.
+- 💼 **LinkedIn:** [Valmir Rezende](www.linkedin.com/in/valmir-rezende-3a33a7235)  
+- 🌐 **Portfólio:** Em desenvolvimento
 
